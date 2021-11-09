@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdivahedi" alt="mahdivahedi" /></a> </p>
 
+- 👨‍💻 I’m currently studying **computer engineering at AUT**
+
 - 🌱 I’m currently learning **about AI**
 
 - 📫 How to reach me **mahdivahedi@aut.ac.ir**
