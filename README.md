@@ -5,8 +5,6 @@
 
 - 👨‍💻 I’m currently studying **computer engineering at AUT**
 
-- 🌱 I’m currently learning **about AI**
-
 - 📫 How to reach me **mahdivahedi@aut.ac.ir**
 
 <h3 align="left">Connect with me:</h3>
